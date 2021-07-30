@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import SearchForm from './SearchForm';
+import React from 'react';
+//import SearchForm from './SearchForm';
 
 function UserCardList({users}) {
 
